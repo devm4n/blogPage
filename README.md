@@ -10,3 +10,5 @@ Personal Bloging page template which is build in ReactJS fully responsive ui.
 In future Versions API context and server side connection have to come.
 
 Goal for Version-2 are from implementing State of Each bloging page card and retrive data through API.
+
+![image]("https://github.com/devm4n/blogPage/blob/master/Screenshot%202025-06-03%20120542.png")
