@@ -14,3 +14,4 @@ Goal for Version-2 are from implementing State of Each bloging page card and ret
 ![Alt text](Screenshot1.png?raw=true)
 ![Alt text](Screenshot2.png?raw=true)
 ![Alt text](Screenshot3.png?raw=true)
+![Alt text](Screenshot4.png?raw=true)
