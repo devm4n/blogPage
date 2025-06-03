@@ -1,12 +1,12 @@
-# React + Vite
+# ReacJS Based fully responsvie Blog Page template.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### ReactJS + Tailwind used in Frontend
 
-Currently, two official plugins are available:
+### Comes with pages of Sigin and Signup 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Personal Bloging page template which is build in ReactJS fully responsive ui.
 
-## Expanding the ESLint configuration
+### This is officialy Version-1 of site in whice only have features of template.
+In future Versions API context and server side connection have to come.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Goal for Version-2 are from implementing State of Each bloging page card and retrive data through API.
