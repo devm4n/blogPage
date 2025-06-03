@@ -11,4 +11,4 @@ In future Versions API context and server side connection have to come.
 
 Goal for Version-2 are from implementing State of Each bloging page card and retrive data through API.
 
-![Screenshot]("https://github.com/devm4n/blogPage/Screenshot1.png")
+![Alt text](Screenshot1.png?raw=true)
